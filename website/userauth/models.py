@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
+from . import forms
 # Create your models here.
 
 class Otherdetail(models.Model):
