@@ -2,7 +2,6 @@ from __future__ import unicode_literals
 from django.shortcuts import render
 from . import models
 from django.http import HttpResponse
-from django.contrib.auth import authenticate
 from django.views import generic
 from . import forms
 def music(request):

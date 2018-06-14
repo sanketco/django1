@@ -123,4 +123,4 @@ MEDIA_URL='/media/'
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
-LOGIN_REDIRECT_URL = '/music/list'
+LOGIN_REDIRECT_URL = '/musico/list'
